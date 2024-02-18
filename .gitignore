@@ -159,13 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ignore CSV files
+# Ignore files
 *.csv
-*.zip
-*.png
 *.docx
-# Ignore saved models
-
-RandomForest_model/*
-RandomForest_optimizedmodel/*
-project/*
+*.png
